@@ -14,6 +14,11 @@ body
     height 100% !important // @stylint ignore
 
 iframe
+    // Hide the chat app navbar (80px) using clip-path
+    clip-path inset(80px 0 0 0)
+    margin-top -80px
+    height calc(100% + 80px)
+
     +medium-screen()
-        height calc(100% - 3rem)
+        height calc(100% - 3rem + 80px)
         padding-top 3rem
