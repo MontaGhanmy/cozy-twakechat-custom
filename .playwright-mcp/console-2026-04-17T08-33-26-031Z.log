@@ -1,0 +1,30 @@
+[    3741ms] [WARNING] %ccozy-stack-client Deprecated: in next versions of cozy-client, it will not be possible to query settings with an incomplete id
+
+- Q('io.cozy.settings').getById('instance')
++ Q('io.cozy.settings').getById('io.cozy.settings.instance') color: #fff; background: #bbbb00; @ https://zoebellotscompanyc1627f-chat.twake.app/static/js/658.2e425e91.js?5d833aff3884456f:1
+[    5031ms] [ERROR] Error: <svg> attribute width: Expected length, "auto". @ https://zoebellotscompanyc1627f-chat.twake.app/static/js/lib-react.f58bf8f1.js?5d833aff3884456f:1
+[    5032ms] [ERROR] Error: <svg> attribute width: Expected length, "auto". @ https://zoebellotscompanyc1627f-chat.twake.app/static/js/lib-react.f58bf8f1.js?5d833aff3884456f:1
+[   15299ms] [LOG] %c👷‍♂️ [SharedWorkerProvider] Init SharedWorker color: #808080; @ https://zoebellotscompanyc1627f-dataproxy.twake.app/static/js/cozy.57e27eed.js:1
+[   15300ms] [LOG] %c👷‍♂️ [SharedWorkerProvider] Provide CozyClient data to Worker color: #808080; @ https://zoebellotscompanyc1627f-dataproxy.twake.app/static/js/cozy.57e27eed.js:1
+[   19337ms] [INFO] %c👨‍💻 [Login wrapper] color: #708; URL to load undefined @ https://zoebellotscompanyc1627f-chat.twake.app/static/js/cozy.b7280d12.js?5d833aff3884456f:1
+[   19340ms] [WARNING] %ccozy-stack-client Deprecated: in next versions of cozy-client, it will not be possible to query settings with an incomplete id
+
+- Q('io.cozy.settings').getById('instance')
++ Q('io.cozy.settings').getById('io.cozy.settings.instance') color: #fff; background: #bbbb00; @ https://zoebellotscompanyc1627f-chat.twake.app/static/js/658.2e425e91.js?5d833aff3884456f:1
+[   19341ms] [LOG] %c👷‍♂️ [DataProxyProvider] Initializing DataProxy intent color: #808080; @ https://zoebellotscompanyc1627f-chat.twake.app/static/js/cozy.b7280d12.js?5d833aff3884456f:1
+[   20274ms] [INFO] %c👨‍💻 [Login wrapper] color: #708; Org ID: bellotscompanyc1627f @ https://zoebellotscompanyc1627f-chat.twake.app/static/js/cozy.b7280d12.js?5d833aff3884456f:1
+[   20275ms] [INFO] %c👨‍💻 [Login wrapper] color: #708; Domain: twake.app @ https://zoebellotscompanyc1627f-chat.twake.app/static/js/cozy.b7280d12.js?5d833aff3884456f:1
+[   20275ms] [INFO] %c👨‍💻 [Login wrapper] color: #708; AppURL: https://chat.bellotscompanyc1627f.twake.app/ @ https://zoebellotscompanyc1627f-chat.twake.app/static/js/cozy.b7280d12.js?5d833aff3884456f:1
+[   20275ms] [INFO] %c👨‍💻 [Login wrapper] color: #708; API login URL: https://api-login-bellotscompanyc1627f.twake.app/ @ https://zoebellotscompanyc1627f-chat.twake.app/static/js/cozy.b7280d12.js?5d833aff3884456f:1
+[   20275ms] [INFO] %c👨‍💻 [Login wrapper] color: #708; Fresh login params {error: null, errorDescription: null, loginToken: null, homeserver: null} @ https://zoebellotscompanyc1627f-chat.twake.app/static/js/cozy.b7280d12.js?5d833aff3884456f:1
+[   20275ms] [INFO] %c👨‍💻 [Login wrapper] color: #708; 🔵 Not fresh login @ https://zoebellotscompanyc1627f-chat.twake.app/static/js/cozy.b7280d12.js?5d833aff3884456f:1
+[   20478ms] [INFO] %c👨‍💻 [Login wrapper] color: #708; 🔵 Authenticated @ https://zoebellotscompanyc1627f-chat.twake.app/static/js/cozy.b7280d12.js?5d833aff3884456f:1
+[   20478ms] [INFO] %c👨‍💻 [Login wrapper] color: #708; URL to load https://chat.bellotscompanyc1627f.twake.app/ @ https://zoebellotscompanyc1627f-chat.twake.app/static/js/cozy.b7280d12.js?5d833aff3884456f:1
+[   20482ms] [LOG] %c🌉 [Container bridge] Setting iframe to https://chat.bellotscompanyc1627f.twake.app/ color: #808080; @ https://zoebellotscompanyc1627f-chat.twake.app/static/js/cozy.b7280d12.js?5d833aff3884456f:1
+[   20483ms] [LOG] %c🌉 [Container bridge] Listening to parent origin request color: #808080; @ https://zoebellotscompanyc1627f-chat.twake.app/static/js/cozy.b7280d12.js?5d833aff3884456f:1
+[   20483ms] [LOG] %c🌉 [Container bridge] Listening to bridge requests color: #808080; @ https://zoebellotscompanyc1627f-chat.twake.app/static/js/cozy.b7280d12.js?5d833aff3884456f:1
+[   20537ms] [ERROR] Error: <svg> attribute width: Expected length, "auto". @ https://zoebellotscompanyc1627f-chat.twake.app/static/js/lib-react.f58bf8f1.js?5d833aff3884456f:1
+[   20537ms] [ERROR] Error: <svg> attribute width: Expected length, "auto". @ https://zoebellotscompanyc1627f-chat.twake.app/static/js/lib-react.f58bf8f1.js?5d833aff3884456f:1
+[   20638ms] [LOG] %c👷‍♂️ [SharedWorkerProvider] Init SharedWorker color: #808080; @ https://zoebellotscompanyc1627f-dataproxy.twake.app/static/js/cozy.57e27eed.js:1
+[   20638ms] [LOG] %c👷‍♂️ [SharedWorkerProvider] Provide CozyClient data to Worker color: #808080; @ https://zoebellotscompanyc1627f-dataproxy.twake.app/static/js/cozy.57e27eed.js:1
+[   31433ms] [ERROR] Failed to load resource: net::ERR_NETWORK_CHANGED @ https://chat.bellotscompanyc1627f.twake.app/web/main.dart.js:0

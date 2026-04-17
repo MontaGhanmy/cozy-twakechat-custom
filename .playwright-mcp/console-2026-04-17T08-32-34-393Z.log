@@ -1,0 +1,15 @@
+[    2389ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hiA.woff2 @ https://sign-up.twake.app/?post_login_redirect_url=https%3A%2F%2Fsign-up.twake.app%2Foauth2%2Fauthorize%3Fclient_id%3Dcozy-twake-prod%26nonce%3Dd4b5a24af2a35050d81c07cb732b3ea759936f2c0fe57db1%26redirect_uri%3Dhttps%253A%252F%252Foauthcallback.twake.app%252Foidc%252Fredirect%26response_type%3Dcode%26scope%3Dopenid%2Bprofile%26state%3D2cb1dafa4c43e073f4548292fb749b15ebc7f3ae2bbca76a&simple_redirect=true&login_hint=zoe%40bellot.me:38
+[    3853ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://sign-up.twake.app/?post_login_redirect_url=https%3A%2F%2Fsign-up.twake.app%2Foauth2%2Fauthorize%3Fclient_id%3Dcozy-twake-prod%26nonce%3Dd4b5a24af2a35050d81c07cb732b3ea759936f2c0fe57db1%26redirect_uri%3Dhttps%253A%252F%252Foauthcallback.twake.app%252Foidc%252Fredirect%26response_type%3Dcode%26scope%3Dopenid%2Bprofile%26state%3D2cb1dafa4c43e073f4548292fb749b15ebc7f3ae2bbca76a&simple_redirect=true&login_hint=zoe%40bellot.me:0
+[   18153ms] [ERROR] De: Not found: /oauth2/authorize
+    at H (https://sign-up.twake.app/_app/immutable/chunks/C8w1UE4u.js:1:23801)
+    at async ke (https://sign-up.twake.app/_app/immutable/chunks/C8w1UE4u.js:1:15295)
+    at async Vr (https://sign-up.twake.app/_app/immutable/chunks/C8w1UE4u.js:1:27399)
+    at async o (https://sign-up.twake.app/_app/immutable/chunks/Cb7l9tIM.js:1:42754)
+    at async https://sign-up.twake.app/_app/immutable/nodes/14.DCA51Nmj.js:1:7862
+    at async HTMLFormElement.f (https://sign-up.twake.app/_app/immutable/chunks/Cb7l9tIM.js:1:43762) @ https://sign-up.twake.app/_app/immutable/entry/app._v6sXml7.js:1
+[   20816ms] [ERROR] Failed to load resource: the server responded with a status of 502 () @ https://zoebellotscompanyc1627f.twake.app/oidc/login?code=4726af7e6f7369895d234cf7019d5e6d6ff39e711655c8c073b137d0675dcff9&redirect=https%3A%2F%2Fzoebellotscompanyc1627f-chat.twake.app%2F&state=2cb1dafa4c43e073f4548292fb749b15ebc7f3ae2bbca76a:0
+[   21618ms] [ERROR] Failed to load resource: net::ERR_NETWORK_CHANGED @ https://zoebellotscompanyc1627f.twake.app/assets/images/logo-light.b98206e7fd.svg:0
+[   21618ms] [ERROR] Failed to load resource: net::ERR_NETWORK_CHANGED @ https://zoebellotscompanyc1627f.twake.app/assets/images/generic-error.a5a7facc28.svg:0
+[   21620ms] [ERROR] Failed to load resource: net::ERR_NETWORK_CHANGED @ https://zoebellotscompanyc1627f.twake.app/assets/fonts/InterVariable.woff2:0
+[   21680ms] [ERROR] Failed to load resource: net::ERR_NETWORK_CHANGED @ https://zoebellotscompanyc1627f.twake.app/assets/icon.5eeec95ca1.svg:0
+[   21680ms] [ERROR] Failed to load resource: net::ERR_NETWORK_CHANGED @ https://zoebellotscompanyc1627f.twake.app/assets/manifest.5495261505.webmanifest:0

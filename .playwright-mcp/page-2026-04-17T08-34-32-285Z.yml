@@ -1,0 +1,27 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - link [ref=e8] [cursor=pointer]:
+          - /url: https://zoebellotscompanyc1627f-home.twake.app/
+          - img [ref=e9]
+        - separator [ref=e14]
+        - generic [ref=e15]:
+          - img [ref=e16]
+          - img [ref=e21]
+          - img [ref=e25]
+      - link [ref=e30] [cursor=pointer]:
+        - /url: https://support.twake.app/
+        - img [ref=e32]
+      - navigation [ref=e34]:
+        - button [ref=e35] [cursor=pointer]:
+          - img [ref=e37]
+      - navigation [ref=e39]:
+        - button [ref=e40] [cursor=pointer]:
+          - img [ref=e43]
+  - application [ref=e3]:
+    - iframe [ref=e44]:
+      - generic [active] [ref=f3e1]:
+        - img [ref=f3e2]
+        - img [ref=f3e3]
+    - iframe

@@ -1,0 +1,12 @@
+- main [ref=e2]:
+  - link "Twake Workplace" [ref=e4] [cursor=pointer]:
+    - /url: https://cozy.io/
+    - img "Twake Workplace" [ref=e5]
+  - generic [ref=e6]:
+    - heading "Sorry, an unexpected error occurred." [level=1] [ref=e7]
+    - paragraph [ref=e9]: Error from the identity provider.
+  - paragraph [ref=e11]:
+    - text: A problem, a question? Contact us at
+    - link "support@twake.app" [ref=e12] [cursor=pointer]:
+      - /url: mailto:support@twake.app
+    - text: .

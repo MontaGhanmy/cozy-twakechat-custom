@@ -1,0 +1,25 @@
+- generic [ref=e8]:
+  - generic [ref=e9]:
+    - button [ref=e11] [cursor=pointer]:
+      - img [ref=e12]
+    - img [ref=e16]
+    - button "EN" [ref=e36] [cursor=pointer]:
+      - img [ref=e38]
+      - generic [ref=e41]: EN
+  - generic [ref=e42]:
+    - generic [ref=e44]:
+      - generic [ref=e45]:
+        - button "Phone number" [ref=e46] [cursor=pointer]
+        - button "Email / Username" [ref=e47] [cursor=pointer]
+      - generic [ref=e49]:
+        - textbox "Email / Username" [ref=e50]: zoe@bellot.me
+        - generic: Email / Username
+      - generic [ref=e52]:
+        - textbox "Password" [ref=e53]
+        - generic: Password
+      - link "Forgot your password?" [ref=e57] [cursor=pointer]:
+        - /url: /recover-password
+    - generic [ref=e58]:
+      - button "Sign in" [ref=e59] [cursor=pointer]
+      - button "Create Twake account" [ref=e60] [cursor=pointer]:
+        - generic [ref=e62]: Create Twake account
